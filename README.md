@@ -65,7 +65,7 @@
 ###  <font color = #9ACD32>4. Результат</font>
 
 Ноутбук с решением на GitHub: [project-3-eda-kaggle.ipynb](https://github.com/DmitVasilev/Project_3_EDA/blob/master/project-3-eda-kaggle.ipynb).     
-Для отображения интерактивных графиков решения на GitHub можно воспользоваться ссылкой [project-3-eda-kaggle.ipynb](https://nbviewer.org/github/DmitVasilev/Project_3_EDA/blob/a4970c187478f61c1cffd3f5174223dd955a00fe/project-3-eda-kaggle.ipynb).        
+Для отображения интерактивных графиков решения на GitHub можно воспользоваться ссылкой [project-3-eda-kaggle.ipynb](https://nbviewer.org/github/DmitVasilev/Project_3_EDA/blob/dadf854e177a2fc1d24ec5b1c9184642dfcc03ff/project-3-eda-kaggle.ipynb).        
 Ноутбук с решением на Kaggle: [Project-3-EDA](https://www.kaggle.com/code/dmitryva/project-3-eda).    
 
  
