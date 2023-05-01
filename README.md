@@ -64,13 +64,14 @@
 
 ###  <font color = #9ACD32>4. Результат</font>
 
-Ноутбук с решением на GitHub: [project-3-eda-kaggle.ipynb](https://github.com/DmitVasilev/Project_3_EDA/blob/master/project-3-eda-kaggle.ipynb)        
+Ноутбук с решением на GitHub: [project-3-eda-kaggle.ipynb](https://github.com/DmitVasilev/Project_3_EDA/blob/master/project-3-eda-kaggle.ipynb).     
+Для отображения интерактивных графиков решения на GitHub можно воспользоваться ссылкой [project-3-eda-kaggle.ipynb](https://nbviewer.org/github/DmitVasilev/Project_3_EDA/blob/a4970c187478f61c1cffd3f5174223dd955a00fe/project-3-eda-kaggle.ipynb).        
 Ноутбук с решением на Kaggle: [Project-3-EDA](https://www.kaggle.com/code/dmitryva/project-3-eda).    
 
  
 Обеспечить воспроизводимость кода поможет файл requirements.txt:           
-для решения на GitHub: [requirements.txt](https://github.com/Tio147/DS_1/blob/main/project_0.5/requirements.txt);              
-для решенияя на Kaggle:  [requirements.txt](https://github.com/Tio147/DS_1/blob/main/project_0.5/requirements.txt)                
+для решения на GitHub: [requirements.txt](https://github.com/DmitVasilev/Project_3_EDA/blob/master/requirements.txt);                        
+для решенияя на Kaggle:  [requirements_for_kaggle.txt](https://github.com/DmitVasilev/Project_3_EDA/blob/master/requirements_for_kaggle.txt).                     
 
 :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_3_EDA#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
 
