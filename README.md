@@ -4,15 +4,17 @@
 
 ##  <font color = #9ACD32> Содержание </font>
 
-[1. Введение](https://github.com/Tio147/DS_1/tree/main/project_0.5#введение)   
-[2. Описание задачи](https://github.com/Tio147/DS_1/tree/main/project_0.5#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
-[3. Описание данных](https://github.com/Tio147/DS_1/tree/main/project_0.5#%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
-[4. Результат](https://github.com/Tio147/DS_1/tree/main/project_0.5#результат)                  
-[5. Выводы]()
+[1. Введение](https://github.com/DmitVasilev/Project_3_EDA#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
+[2. Описание задачи](https://github.com/DmitVasilev/Project_3_EDA#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
+[3. Описание данных](https://github.com/DmitVasilev/Project_3_EDA#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
+[4. Результат](https://github.com/DmitVasilev/Project_3_EDA#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
+[5. Выводы](https://github.com/DmitVasilev/Project_3_EDA#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### <font color = #9ACD32> 1. Введение </font>
 
  Решаем задачу для компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
+
+ :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_3_EDA#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
 
 ###  <font color = #9ACD32>2. Описание задачи</font>
 
@@ -28,6 +30,8 @@
     Отбор признаков.
     Преобразование признаков.
     Качество решения: результат метрики MAPE.
+
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_3_EDA#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
 
 ###  <font color = #9ACD32>3. Описание данных</font>
 
@@ -52,7 +56,7 @@
     lng — географическая долгота отеля.
 
 
-
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_3_EDA#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
 
 
 
@@ -60,17 +64,19 @@
 
 ###  <font color = #9ACD32>4. Результат</font>
 
-Ноутбук с решением выполненном в Seaborn (немного Matplotlib и Plotly): [module Python13.ipynb](https://github.com/Tio147/DS_1/blob/main/project_0.5/module%20Python13.ipynb).    
+Ноутбук с решением на GitHub: [project-3-eda-kaggle.ipynb](https://github.com/DmitVasilev/Project_3_EDA/blob/master/project-3-eda-kaggle.ipynb)        
+Ноутбук с решением на Kaggle: [Project-3-EDA](https://www.kaggle.com/code/dmitryva/project-3-eda).    
 
-Первоначально был ноутбук с решением выполненном в Plotly, но на GitHub не отображаются графики выполненные в Plotly. Поэтому в ответе который идет после графика приведена ссылка для просмотра графика в формате HTML.             
-Ноутбук с решением выполненном в Plotly: [module Python13(Plotly).ipynb](https://github.com/Tio147/DS_1/blob/main/project_0.5/module%20Python13(Plotly).ipynb).
  
-Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/Tio147/DS_1/blob/main/project_0.5/requirements.txt).     
-:arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_0.5/README.md#Содержание)    
-:arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_0.5/README.md#Содержание)     
+Обеспечить воспроизводимость кода поможет файл requirements.txt:           
+для решения на GitHub: [requirements.txt](https://github.com/Tio147/DS_1/blob/main/project_0.5/requirements.txt);              
+для решенияя на Kaggle:  [requirements.txt](https://github.com/Tio147/DS_1/blob/main/project_0.5/requirements.txt)                
+
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_3_EDA#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
 
 
 ###  <font color = #9ACD32>5. Выводы</font>
 
-В данном проекте была проведена работа по исследованию и очистке данных на примере датасета содержащего резюме соискателей с сайта поиска вакансий hh.ru.
-Было проведено преобразование данных путем формирования новых новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей в данных с использованием визуализации (бибилиотеки matplotlib, seaborn и plotly). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.
+В данном проекте была проведена работа по разведывательному анализу данных на примере датасета содержащего рейтинг отелей.
+Было проведено восстановление пропущенных данных, генерация новых признаков с использованием исходных и внешних данных. Выполнено кодирование признаков и преобразование данных различными методами. Найдены признаки с высокой корреляцией, определена важность признаков с помощью стаистических тестов хи-квадрат и anova. Проведен отбор признаков по важности. Итоговый результат оценки предсказаний модели по метрике МАРЕ на Kaggle - 12.42939.    
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_3_EDA#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
